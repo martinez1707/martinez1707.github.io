@@ -1,0 +1,64 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.todo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formularioo{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    margin-top: 20px;
+    width: 500px;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 20px 15px 20px 15px #553;
+}
+
+.tabla,td,th{
+    background-color: blue;
+    border: 1px solid black;
+    font-size: 30px;
+    border-collapse: collapse;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 5px 5px 5px 5px  #554cfe;
+}
+
+.tres{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cuatro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.quinto{
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.sexto{
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.septimo{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
